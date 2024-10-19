@@ -1,0 +1,300 @@
+Google Chrome Skia Integer Overflow Vulnerability
+Realtek Jungle SDK Remote Code Execution Vulnerability
+Linux Kernel Race Condition Vulnerability
+Primetek Primefaces Remote Code Execution Vulnerability
+SIMalliance Toolbox Browser Command Injection Vulnerability
+Microsoft Windows Adobe Font Manager Library Remote Code Execution Vulnerability
+Google Chrome WebAudio Use-After-Free Vulnerability
+Microsoft Internet Explorer Use-After-Free Vulnerability
+Microsoft Internet Explorer Use-After-Free Vulnerability
+Apache CouchDB Insecure Default Initialization of Resource Vulnerability
+Apple Multiple Products Memory Corruption Vulnerability
+Adobe Flash Player Heap-Based Buffer Overflow Vulnerability
+SAP NetWeaver Unrestricted File Upload Vulnerability
+Microsoft Exchange Server Server-Side Request Forgery Vulnerability
+Microsoft Windows Power Dependency Coordinator Privilege Escalation Vulnerability
+Microsoft Windows Win32k Privilege Escalation Vulnerability
+Microsoft Defender SmartScreen Security Feature Bypass Vulnerability
+MikroTik RouterOS Stack-Based Buffer Overflow Vulnerability
+Ivanti Endpoint Manager Cloud Service Appliance (EPM CSA) Code Injection Vulnerability 
+Dahua IP Camera Authentication Bypass Vulnerability
+ThinkPHP Remote Code Execution Vulnerability
+D-Link DWL-2600AP Access Point Command Injection Vulnerability
+Microsoft Win32k Privilege Escalation Vulnerability
+Zyxel P660HN-T1A Routers Command Injection Vulnerability
+SonicWall SSLVPN SMA100 SQL Injection Vulnerability
+NETGEAR WNR2000v5 Router Buffer Overflow Vulnerability
+Oracle Java SE Integrity Check Vulnerability
+Citrix StoreFront Server XML External Entity (XXE) Processing Vulnerability
+Adobe Acrobat and Reader Stack-Based Buffer Overflow Vulnerability
+Adobe Flash Player Cross-Site Scripting (XSS) Vulnerability
+Microsoft Exchange Server Remote Code Execution Vulnerability
+Apple iOS, iPadOS, and macOS Webkit Use-After-Free Vulnerability
+Android Kernel Use-After-Free Vulnerability
+Microsoft Windows CNG Key Isolation Service Privilege Escalation Vulnerability
+Microsoft Windows Authenticode Signature Verification Remote Code Execution Vulnerability
+McAfee Total Protection (MTP) Improper Privilege Management Vulnerability
+Microsoft Win32k Privilege Escalation Vulnerability
+Progress MOVEit Transfer SQL Injection Vulnerability
+Microsoft DirectX Graphics Kernel Privilege Escalation Vulnerability
+QNAP Photo Station Externally Controlled Reference Vulnerability
+VMware Tanzu Spring Cloud Config Directory Traversal Vulnerability
+VMware SD-WAN Edge by VeloCloud Command Injection Vulnerability
+Atlassian Confluence Server and Data Center Path Traversal Vulnerability
+Atlassian Confluence Data Center and Server Improper Authorization Vulnerability
+Red Hat Linux JBoss Seam 2 Remote Code Execution Vulnerability
+Microsoft Windows Scripting Engine Memory Corruption Vulnerability
+GNU Bourne-Again Shell (Bash) Arbitrary Code Execution Vulnerability
+Adobe Acrobat and Reader Out-of-Bounds Write Vulnerability
+Microsoft Windows Remote Code Execution Vulnerability
+NETGEAR DGN2200 Remote Code Execution Vulnerability
+Arm Mali GPU Kernel Driver Information Disclosure Vulnerability
+Realtek AP-Router SDK Buffer Overflow Vulnerability
+Google Chromium V8 Out-of-Bounds Write Vulnerability
+Microsoft Windows Adobe Type Manager Library Remote Code Execution Vulnerability
+Microsoft Windows Kernel Privilege Escalation Vulnerability
+Cisco Adaptive Security Appliance (ASA) CLI Remote Code Execution Vulnerability
+Microsoft Windows Internet Shortcut Files Security Feature Bypass Vulnerability
+Apple Multiple Products Memory Initialization Vulnerability
+QNAP NAS File Station Command Injection Vulnerability
+Red Hat JBoss Authentication Bypass Vulnerability
+Zyxel EMG2926 Routers Command Injection Vulnerability
+EyesOfNetwork Use of Hard-Coded Credentials Vulnerability
+Microsoft Windows SmartScreen Security Feature Bypass Vulnerability
+Apple Multiple Products WebKit Sandbox Escape Vulnerability
+Adobe Acrobat and Reader Use-After-Free Vulnerability
+Google Chromium Blink Use-After-Free Vulnerability
+Adobe Reader and Acrobat Use-After-Free Vulnerability
+Elasticsearch Groovy Scripting Engine Remote Code Execution Vulnerability
+Apple Multiple Products Kernel Unspecified Vulnerability
+Microsoft Windows Kernel Privilege Escalation Vulnerability
+Red Hat Polkit Incorrect Authorization Vulnerability
+Microsoft Edge and Internet Explorer Memory Corruption Vulnerability
+Exim Buffer Overflow Vulnerability
+Samsung Mobile Devices Use-After-Free Vulnerability
+Code Aurora ACDB Audio Driver Stack-based Buffer Overflow Vulnerability
+Apple Multiple Products Code Execution Vulnerability
+Microsoft Open Management Infrastructure (OMI) Privilege Escalation Vulnerability
+VMware vCenter Server File Upload Vulnerability
+Adobe Reader and Acrobat Memory Corruption Vulnerability
+Ruby on Rails Directory Traversal Vulnerability
+Microsoft Windows Client Server Runtime Subsystem (CSRSS) Privilege Escalation Vulnerability
+PHP-CGI OS Command Injection Vulnerability
+Microsoft Windows Runtime Remote Code Execution Vulnerability
+Microsoft Win32k Privilege Escalation Vulnerability
+Microsoft Windows Error Reporting Service Improper Privilege Management Vulnerability
+Netwrix Auditor Insecure Object Deserialization Vulnerability
+Adobe ColdFusion Deserialization of Untrusted Data Vulnerability
+QNAP NAS File Station Cross-Site Scripting Vulnerability
+LG N1A1 NAS Remote Command Execution Vulnerability
+Microsoft Edge Memory Corruption Vulnerability
+Arm Mali Graphics Processing Unit (GPU) Unspecified Vulnerability
+Juniper Junos OS EX Series PHP External Variable Modification Vulnerability
+Mozilla Firefox Use-After-Free Vulnerability
+SAP NetWeaver Missing Authentication for Critical Function Vulnerability
+Linux Kernel Privilege Escalation Vulnerability
+Pi-Hole AdminLTE Remote Code Execution Vulnerability
+phpMyAdmin Remote Code Execution Vulnerability
+Google Chrome FreeType Heap Buffer Overflow Vulnerability
+Google Chromium V8 Type Confusion Vulnerability
+Oracle Java SE Unspecified Vulnerability
+Microsoft Windows Mark of the Web (MOTW) Protection Mechanism Failure Vulnerability
+Microsoft Exchange Server Validation Key Remote Code Execution Vulnerability
+Ivanti Pulse Connect Secure Collaboration Suite Buffer Overflow Vulnerability
+Dahua IP Camera Authentication Bypass Vulnerability
+Microsoft Office Security Feature Bypass Vulnerability
+Google Chromium V8 Out-of-Bounds Write Vulnerability
+D-Link Multiple Routers Remote Code Execution Vulnerability
+Microsoft Internet Explorer Type Confusion Vulnerability
+Mozilla Firefox, Firefox ESR, and Thunderbird Use-After-Free Vulnerability
+Zoho ManageEngine Multiple Products Remote Code Execution Vulnerability
+Unraid Authentication Bypass Vulnerability
+Microsoft Windows MSHTML Platform Remote Code Execution Vulnerability
+Oracle WebLogic Server Deserialization of Untrusted Data Vulnerability
+Microsoft Windows Error Reporting Manager Privilege Escalation Vulnerability
+Microsoft Windows Scripting Engine Memory Corruption Vulnerability
+Pulse Connect Secure Code Injection Vulnerability
+Microsoft Office Object Record Corruption Vulnerability
+Apache Struts Remote Code Execution Vulnerability
+Microsoft Internet Explorer Memory Corruption Vulnerability
+Android Framework Privilege Escalation Vulnerability
+Google Pixel Out-of-Bounds Write Vulnerability
+Roundcube Webmail Remote Code Execution Vulnerability
+Zimbra Collaboration (ZCS) Cross-Site Scripting (XSS) Vulnerability
+Microsoft Windows Privilege Escalation Vulnerability
+Microsoft Windows Common Log File System (CLFS) Driver Privilege Escalation Vulnerability
+Liferay Portal Deserialization of Untrusted Data Vulnerability
+Microsoft Excel Featheader Record Memory Corruption Vulnerability
+TerraMaster OS Remote Command Execution Vulnerability
+Roundcube Webmail Persistent Cross-Site Scripting (XSS) Vulnerability
+Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability
+Microsoft Word Remote Code Execution Vulnerability
+Progress Telerik UI for ASP.NET AJAX Deserialization of Untrusted Data Vulnerability
+Google Chromium V8 Use-After-Free Vulnerability
+Adobe Reader and Acrobat Memory Corruption Vulnerability
+Microsoft Win32k Privilege Escalation Vulnerability
+Microsoft Windows Installer Privilege Escalation Vulnerability
+Fortinet Multiple Products Authentication Bypass Vulnerability
+Atlassian Confluence Data Center and Server Broken Access Control Vulnerability
+GIGABYTE Multiple Products Unspecified Vulnerability
+Citrix Content Collaboration ShareFile Improper Access Control Vulnerability
+F5 BIG-IP Missing Authentication Vulnerability
+Cisco IOS and IOS XE Remote Code Execution Vulnerability
+Microsoft Active Directory Domain Services Privilege Escalation Vulnerability
+Apple Multiple Products WebKit Integer Overflow Vulnerability
+Tenda AC1900 Router AC15 Model Remote Code Execution Vulnerability
+Microsoft Word Malformed Object Pointer Vulnerability
+Microsoft Windows Print Spooler Remote Code Execution Vulnerability
+Cisco IOS Software for Cisco Industrial Ethernet Switches PROFINET Denial-of-Service Vulnerability
+Microsoft Windows Common Log File System (CLFS) Driver Privilege Escalation Vulnerability
+IBM Data Risk Manager Directory Traversal Vulnerability
+Microsoft Office Publisher Security Feature Bypass Vulnerability
+Microsoft Exchange Server Remote Code Execution Vulnerability
+Adobe Flash Player Arbitrary Code Execution Vulnerability
+Trend Micro OfficeScan Directory Traversal Vulnerability
+Adobe Flash Player Dereferenced Pointer Vulnerability
+WhatsApp Cross-Site Scripting Vulnerability
+Schneider Electric U.motion Builder SQL Injection Vulnerability
+Veeam Backup & Replication Remote Code Execution Vulnerability
+Apple Multiple Products Kernel Privilege Escalation Vulnerability
+Mozilla Firefox And Thunderbird Use-After-Free Vulnerability
+QNAP NAS File Station Cross-Site Scripting Vulnerability
+Drupal Core Remote Code Execution Vulnerability
+Google Chromium WebP Heap-Based Buffer Overflow Vulnerability
+Nagios XI Remote Code Execution Vulnerability
+Grandstream Networks UCM6200 Series SQL Injection Vulnerability
+Cisco IOS XR Software DVMRP Memory Exhaustion Vulnerability
+Rejetto HTTP File Server Improper Neutralization of Special Elements Used in a Template Engine Vulnerability
+Adobe Flash Player Unspecified Vulnerability
+Microsoft Windows Code Injection Vulnerability
+F5 BIG-IP Configuration Utility Authentication Bypass Vulnerability
+Veritas Backup Exec Agent File Access Vulnerability
+Android Kernel Race Condition Vulnerability
+D-Link DSL-2750B Devices Command Injection Vulnerability
+Roundcube Webmail SQL Injection Vulnerability
+VMware vCenter Server and Cloud Foundation Server Side Request Forgery (SSRF) Vulnerability
+Trend Micro Multiple Products Improper Access Control Vulnerability
+Cisco IP Phones Web Server Remote Code Execution and Denial-of-Service Vulnerability
+D-Link Multiple Routers Command Injection Vulnerability
+Palo Alto Networks PAN-OS Remote Code Execution Vulnerability
+Microsoft Windows AppX Deployment Server Privilege Escalation Vulnerability
+Google Chromium Portals Use-After-Free Vulnerability
+Palo Alto Networks PAN-OS Command Injection Vulnerability
+Docker Desktop Community Edition Privilege Escalation Vulnerability
+Mozilla Firefox Use-After-Free Vulnerability
+NETGEAR Multiple Routers Remote Code Execution Vulnerability
+Progress WS_FTP Server Deserialization of Untrusted Data Vulnerability
+Microsoft Windows User Profile Service Privilege Escalation Vulnerability
+Apple Multiple Products WebKit Out-of-Bounds Read Vulnerability
+SonicWall Email Security Improper Privilege Management Vulnerability
+RARLAB UnRAR Directory Traversal Vulnerability
+SysAid Server Path Traversal Vulnerability
+Arm Mali GPU Kernel Driver Use-After-Free Vulnerability
+Apple iOS, iPadOS, and macOS WebKit Remote Code Execution Vulnerability
+ForgeRock Access Management (AM) Core Server Remote Code Execution Vulnerability
+Microsoft Exchange Server Security Feature Bypass Vulnerability
+DotNetNuke (DNN) Remote Code Execution Vulnerability
+Apple iOS, iPadOS, and watchOS WebKit Cross-Site Scripting (XSS) Vulnerability
+Mozilla Firefox And Thunderbird Type Confusion Vulnerability
+Palo Alto Networks PAN-OS Remote Code Execution Vulnerability
+Nagios XI OS Command Injection
+Microsoft Windows Object Linking & Embedding (OLE) Automation Array Remote Code Execution Vulnerability
+Linux Kernel PIE Stack Buffer Corruption Vulnerability 
+D-Link DIR-820L Remote Code Execution Vulnerability
+Microsoft Win32k Privilege Escalation Vulnerability
+Microsoft Windows AppX Deployment Service (AppXSVC) Privilege Escalation Vulnerability
+Apple iOS, iPadOS, and macOS Input Validation Vulnerability
+Apache Kylin OS Command Injection Vulnerability
+Microsoft Windows SmartScreen Security Feature Bypass Vulnerability
+Dasan GPON Routers Command Injection Vulnerability
+Samsung Mobile Devices Improper Access Control Vulnerability
+Zyxel Multiple Firewalls OS Command Injection Vulnerability
+Mozilla Firefox and Thunderbird Type Confusion Vulnerability
+NETGEAR Multiple Devices Buffer Overflow Vulnerability
+Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability
+Adobe Flash Player Use-After-Free Vulnerability
+Cisco IOS Software Common Industrial Protocol Request Denial-of-Service Vulnerability
+Exim Mail Transfer Agent (MTA) Improper Input Validation
+Linux Kernel Privilege Escalation Vulnerability
+FXC AE1021, AE1021PE OS Command Injection Vulnerability
+Realtek SDK Improper Input Validation Vulnerability
+Microsoft Windows Support Diagnostic Tool (MSDT) Remote Code Execution Vulnerability
+Multiple Ruckus Wireless Products CSRF and RCE Vulnerability
+Adobe Reader and Adobe Acrobat Stack-Based Buffer Overflow Vulnerability
+Cisco Secure Access Control System Java Deserialization Vulnerability
+Google Chromium V8 Use-After-Free Vulnerability
+Atlassian Confluence Server and Data Center Remote Code Execution Vulnerability
+Drupal core Un-restricted Upload of File
+Fortinet FortiOS Heap-Based Buffer Overflow Vulnerability
+Oracle Business Intelligence Enterprise Edition Path Transversal
+Cisco IOS Denial-of-Service Vulnerability
+Ivanti Endpoint Manager Mobile Authentication Bypass Vulnerability
+Microsoft Enhanced Cryptographic Provider Privilege Escalation Vulnerability
+VMware Tools Authentication Bypass Vulnerability
+Arm Mali GPU Kernel Driver Use-After-Free Vulnerability
+Red Hat JBoss RichFaces Framework Expression Language Injection Vulnerability
+Adobe Flash Player Type Confusion Vulnerability
+Android Kernel Use-After-Free Vulnerability
+Jenkins Script Security Plugin Sandbox Bypass Vulnerability
+Apple Multiple Products Integer Overflow Vulnerability
+ChakraCore Scripting Engine Type Confusion Vulnerability
+Microsoft Windows Event Tracing Privilege Escalation Vulnerability
+Cisco IOS and IOS XE Software Smart Install Remote Code Execution Vulnerability
+FatPipe WARP, IPVPN, and MPVPN Configuration Upload exploit
+Microsoft Windows AppX Deployment Service Privilege Escalation Vulnerability
+Citrix Multiple Products Remote Code Execution Vulnerability
+Microsoft Win32k Privilege Escalation Vulnerability
+Microsoft Windows Print Spooler Privilege Escalation Vulnerability
+Fortinet FortiOS SSL VPN Path Traversal Vulnerability
+Google Chromium Blink Use-After-Free Vulnerability
+WordPress Snap Creek Duplicator Plugin File Download Vulnerability
+Microsoft DirectX Graphics Kernel Privilege Escalation Vulnerability
+Microsoft Internet Explorer Memory Corruption Vulnerability
+Microsoft PowerPoint Buffer Overflow Vulnerability
+Microsoft Windows User Profile Service Privilege Escalation Vulnerability
+Apple iOS and iPadOS Out-of-Bounds Write Vulnerability
+Delta Electronics DOPSoft 2 Improper Input Validation Vulnerability
+Apache Struts 2 Improper Input Validation Vulnerability
+Microsoft Windows LSA Spoofing Vulnerability
+Debian-specific Redis Server Lua Sandbox Escape Vulnerability
+Oracle VirtualBox Insufficient Input Validation Vulnerability
+RARLAB WinRAR Code Execution Vulnerability
+Microsoft Windows Adobe Font Manager Library Remote Code Execution Vulnerability
+QNAP Photo Station Improper Access Control Vulnerability
+Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability
+Qualcomm Multiple Chipsets Use-After-Free Vulnerability
+XStream Remote Code Execution Vulnerability
+Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability
+Microsoft Windows CryptoAPI Spoofing Vulnerability
+Zoho ManageEngine ADSelfService Plus Authentication Bypass Vulnerability
+WebRTC Heap Buffer Overflow Vulnerability
+Cisco IOS Software Network Address Translation Denial-of-Service Vulnerability
+Apple Multiple Products WebKit Use-After-Free Vulnerability
+Cisco AnyConnect Secure Mobility Client for Windows DLL Hijacking Vulnerability
+Arcserve Unified Data Protection (UDP) Directory Traversal Vulnerability
+HTTP/2 Rapid Reset Attack Vulnerability
+SolarWinds Virtualization Manager Privilege Escalation Vulnerability
+Apache Shiro Code Execution Vulnerability
+Google Chromium V8 Type Confusion Vulnerability
+Fortinet FortiOS Arbitrary File Download
+Microsoft Windows Error Reporting Service Privilege Escalation Vulnerability
+Cisco NX-OS Command Injection Vulnerability
+Netis WF2419 Devices Remote Code Execution Vulnerability
+dotCMS Unrestricted Upload of File Vulnerability
+Microsoft Windows AppX Installer Spoofing Vulnerability
+Google Chromium PopupBlocker Security Bypass Vulnerability
+Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability
+PHP-CGI Query String Parameter Vulnerability
+ownCloud graphapi Information Disclosure Vulnerability
+GNU Bourne-Again Shell (Bash) Arbitrary Code Execution Vulnerability
+Oracle Fusion Middleware Unspecified Vulnerability
+Microsoft Office Memory Corruption Vulnerability
+Oracle WebLogic Server Unspecified Vulnerability
+Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability
+Cisco IOS XE Web UI Privilege Escalation Vulnerability
+Treck TCP/IP stack Out-of-Bounds Read Vulnerability
+IBM WebSphere Application Server and Server Hypervisor Edition Code Injection.
+VMware vCenter Server Improper Access Control
+Sophos Firewall Code Injection Vulnerability
+Apple Multiple Products WebKit Code Execution Vulnerability
+OSGeo GeoServer JAI-EXT Code Injection Vulnerability
